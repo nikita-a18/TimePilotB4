@@ -25,7 +25,6 @@ namespace b4TimePilot
             Content.RootDirectory = "Content";
         }
 
-        //jfkdlsajfkl;da jfkl;adsjfkl;dsjflk;
         /// <summary>
         /// Allows the game to perform any initialization it needs to before starting to run.
         /// This is where it can query for any required services and load any non-graphic
